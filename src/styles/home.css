@@ -1,0 +1,33 @@
+.navLink{
+    color:black;
+    
+    background-size: 200% 100%;
+    background: linear-gradient(to right, #14117b 50%, white 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  transition: all .5s ease-out;
+   
+}
+
+
+.active{
+    color: #fff !important;;
+    background-position:right bottom;
+    background: linear-gradient(to right, #14117b 50%,#14117b 50%);
+    background-color: #14117b ;
+}
+.navLink:hover{
+    color: white;
+     background-position: left bottom;
+ }
+.navLink:active{
+    color:#fff ;
+    background-color: #14117b 
+
+}
+.section1{
+    background-image: url('../../public/img/scr-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}

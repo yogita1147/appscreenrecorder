@@ -1,0 +1,24 @@
+.section3Inside{
+    padding-top: 168px;
+    padding-bottom: 98px;
+    padding-top: 147px;
+    padding-bottom: 88px;
+}
+.section3Btn{
+    width: 21%;
+    background-color: white;
+    color: #14117b;
+    border-radius: 31px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-color: #14117b;
+    margin-left: 6px;
+}
+.section3Para
+{
+    color:#7a7a7a;
+    line-height: 29px;
+}
+.font400{
+    font-weight: 400;
+}
